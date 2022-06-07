@@ -33,3 +33,4 @@ Ustaw zmienną środowiskową `SECRET` na poziomie panelu heroku z wartością: 
 ## Zadanie 5
 
 Wypchnij swoje zmiany na repozytorium heroku, zeby wyzwolić proces wdrozenia aplikacji.
+## test
